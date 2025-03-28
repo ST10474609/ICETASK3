@@ -8,9 +8,8 @@ package icetask2;
  *
  * @author RC_Student_lab
  */
-public class Q2 {
-    public void Numbers() {
-        System.out.println("Here are the numbers for question 2");
-    
-}
+public class Q3 {
+     public void Numbers() {
+        System.out.println("Here are the numbers for question 3");
+     }
 }
